@@ -1,5 +1,5 @@
 {
-    "name": "MAHAK MUSIC",
+    "name": "AVISHA MUSIC",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://te.legra.ph/file/b8a0c1a00db3e57522b53.jpg",
     "keywords": [
@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "28689465",
+        "value": "",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "fedd61d8e38f8afaed63c01b8438cbe4",
+        "value": "",
         "required": true
       },
       "BOT_TOKEN": {
@@ -29,12 +29,12 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority",
+        "value": "",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "6927241780",
+        "value": "6922271843",
         "required": true
       },
       "STRING_SESSION": {
@@ -54,7 +54,7 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "-1002100219353",
+        "value": "",
         "required": true
       }
     },
