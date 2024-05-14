@@ -71,7 +71,7 @@ class Userbot(Client):
 
         if config.STRING2:
             await self.two.start()
-            try=
+            try:
                 await self.two.join_chat("God_Ravana")
                 await self.one.join_chat("Ravan_Lankaa")
             except:
