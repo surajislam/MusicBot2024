@@ -11,16 +11,16 @@ API_ID = int(getenv("API_ID", None))
 API_HASH = getenv("API_HASH", None)
 
 #❖ Add Owner Username without @ 
-OWNER_USERNAME = getenv("OWNER_USERNAME", "GOD_R4V4N")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "ll_SB_ANGLE_ll")
 
 #❖  Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME", "MahakXbot")
+BOT_USERNAME = getenv("BOT_USERNAME", "SB_MUSIC_ROBOT")
 
 #❖  Don't Add style font 
-BOT_NAME = getenv("BOT_NAME", "MAHAK MUSIC")
+BOT_NAME = getenv("BOT_NAME", "SIMPLE MUSIC")
 
 #❖ get Your Assistant User name
-ASSUSERNAME = getenv("ASSUSERNAME", "MAHAK_ASS")
+ASSUSERNAME = getenv("ASSUSERNAME", "ll_SB_ANGLE_ll")
 
 #❖ Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
@@ -31,10 +31,10 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 600000))
 
 #❖  Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002100219353"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002126936204"))
 
 #❖ Get this value from @FallenxBot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", "6927241780"))
+OWNER_ID = int(getenv("OWNER_ID", "7178932244"))
 
 #❖  Your heroku app name
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
@@ -44,7 +44,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/GOD-R4V4N/MusicBot",
+    "https://github.com/surajislam/MusicBot2024",
 )
 
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
@@ -53,8 +53,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  #❖ Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/God_Ravana")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Ravan_Lankaa")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/anokhikeduniya")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/pikachuworld0099")
 
 #❖ Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -92,12 +92,12 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/982b01ba53c3d69b0d0ce.jpg"
+    "START_IMG_URL", "https://graph.org/file/f1ae76618d14521b34905.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://telegra.ph/file/dec61e858d57c14343455.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/7795e58425337d0455e95.jpg"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/dec61e858d57c14343455.jpg"
 STATS_IMG_URL = "https://graph.org/file/27c86aaad1711abe65ce1.jpg"
 TELEGRAM_AUDIO_URL = "https://telegra.ph/file/d2081243af7c1d7578b7b.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/d2081243af7c1d7578b7b.jpg"
