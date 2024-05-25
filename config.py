@@ -11,16 +11,16 @@ API_ID = int(getenv("API_ID", None))
 API_HASH = getenv("API_HASH", None)
 
 #❖ Add Owner Username without @ 
-OWNER_USERNAME = getenv("OWNER_USERNAME", "ll_SB_ANGLE_ll")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "II_SHIVBHAKT_II")
 
 #❖  Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME", "SB_MUSIC_ROBOT")
+BOT_USERNAME = getenv("BOT_USERNAME", "MISSQUEEN_X_MUSICBOT")
 
 #❖  Don't Add style font 
 BOT_NAME = getenv("BOT_NAME", "SIMPLE MUSIC")
 
 #❖ get Your Assistant User name
-ASSUSERNAME = getenv("ASSUSERNAME", "ll_SB_ANGLE_ll")
+ASSUSERNAME = getenv("ASSUSERNAME", "I_am_seerat")
 
 #❖ Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
@@ -31,10 +31,10 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 600000))
 
 #❖  Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002126936204"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002155444028"))
 
 #❖ Get this value from @FallenxBot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", "7178932244"))
+OWNER_ID = int(getenv("OWNER_ID", "6528942884"))
 
 #❖  Your heroku app name
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
@@ -53,8 +53,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  #❖ Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/anokhikeduniya")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/pikachuworld0099")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/LINK_KI_HAWELI")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/LINK_KI_HAWELI")
 
 #❖ Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -92,7 +92,7 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/f1ae76618d14521b34905.jpg"
+    "START_IMG_URL", "https://graph.org/file/80b2cc0c8a6faeac6735c.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://telegra.ph/file/dec61e858d57c14343455.jpg"
